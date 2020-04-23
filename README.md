@@ -10,7 +10,7 @@ Planificador de estudio.
 - [Styled Components](https://styled-components.com/)
 
 - [Django](https://www.djangoproject.com/)
--[Django-REST-Framework](https://www.django-rest-framework.org/)
+- [Django-REST-Framework](https://www.django-rest-framework.org/)
 - [Django-REST-Knox](https://github.com/James1345/django-rest-knox)
 
 
